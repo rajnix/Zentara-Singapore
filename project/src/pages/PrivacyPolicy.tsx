@@ -39,7 +39,7 @@ function PrivacyPolicy() {
           transition={{ duration: 0.6 }}
         >
           <p className="text-[#A0A0A0] text-sm font-normal font-primary mb-4">
-            ZENTARA - Powered by DAZZLINGXCHANGE
+            ZENTARA - Powered by DAZZLING XCHANGE
           </p>
 
           <Link
