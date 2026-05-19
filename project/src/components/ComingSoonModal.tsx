@@ -42,7 +42,7 @@ const ComingSoonModal: React.FC<ComingSoonModalProps> = React.memo(({ isOpen, on
               </div>
               <h2 className="text-2xl font-semibold text-white mb-2">Coming Soon!</h2>
               <p className="text-gray-300">
-                The Zentara mobile application is launching soon on the Google Play Store and Apple App Store.
+                The Zentara App is launching soon on the Google Play Store and Apple App Store.
               </p>
             </div>
 
